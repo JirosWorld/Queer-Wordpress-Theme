@@ -1,0 +1,211 @@
+/*
+Theme Name: Jiro's QUEER THEME
+Author: Jiro Ghianni
+Author URI: http://www.jirosworld.com
+Theme URI: https://github.com/jolarti
+Description: Jiro's Queer Theme Template is a simple starter theme. It has a randomly generated background color on every page!
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: rainbow, one-column, right-sidebar, responsive-layout, accessibility-ready, custom-background, custom-colors
+*/
+
+body {
+      font-family: "Courier New", Courier, monospace;
+      background-color: #BACB95;
+    }
+
+#HOME {
+	width: 207px;
+	height: 113px;
+}
+#entry, #content, #Slice-14 {
+	position:absolute;
+	left:461px;
+	top:484px;
+	width:392px;
+	height:240px;
+	overflow: scroll;
+}
+
+.menu, .menu-item {
+	display: inline;
+	position:relative;
+}
+
+#Table_01 {
+	position:absolute;
+	left:0px;
+	top:100px;
+	width:1000px;
+	height:624px;
+}
+footer {
+	position:absolute;
+	left:0px;
+	top: 725px;
+	width:1000px;
+}
+
+#Slice-01 {
+	position:absolute;
+	left:0px;
+	top:100px;
+	width:207px;
+	height:113px;
+}
+
+#Slice-02 {
+	position:absolute;
+	left:207px;
+	top:100px;
+	width:404px;
+	height:113px;
+}
+
+#Slice-03 {
+	position:absolute;
+	left:611px;
+	top:100px;
+	width:68px;
+	height:113px;
+}
+
+#Slice-04 {
+	position:absolute;
+	left:679px;
+	top:100px;
+	width:321px;
+	height:113px;
+}
+
+#Slice-05 {
+	position:absolute;
+	left:0px;
+	top:213px;
+	width:853px;
+	height:132px;
+}
+
+#Slice-06 {
+	position:absolute;
+	left:853px;
+	top:213px;
+	width:111px;
+	height:132px;
+}
+
+#Slice-07 {
+	position:absolute;
+	left:964px;
+	top:213px;
+	width:36px;
+	height:132px;
+}
+
+#Slice-08 {
+	position:absolute;
+	left:0px;
+	top:345px;
+	width:460px;
+	height:139px;
+}
+
+#Slice-09 {
+	position:absolute;
+	left:460px;
+	top:345px;
+	width:393px;
+	height:139px;
+	overflow: auto;
+}
+
+#Slice-10 {
+	position:absolute;
+	left:853px;
+	top:345px;
+	width:112px;
+	height:139px;
+}
+
+#Slice-11 {
+	position:absolute;
+	left:965px;
+	top:345px;
+	width:35px;
+	height:379px;
+}
+
+#Slice-12 {
+	position:absolute;
+	left:0px;
+	top:184px;
+	width:207px;
+	height:240px;
+}
+
+#Slice-13 {
+	position:absolute;
+	left:207px;
+	top:484px;
+	width:254px;
+	height:85px;
+}
+
+
+
+#Slice-15 {
+	position:absolute;
+	left:853px;
+	top:484px;
+	width:112px;
+	height:85px;
+}
+
+#Slice-16 {
+	position:absolute;
+	left:207px;
+	top:569px;
+	width:254px;
+	height:155px;
+}
+
+#Slice-17 {
+	position:absolute;
+	left:853px;
+	top:569px;
+	width:1px;
+	height:1px;
+}
+
+#Slice-18 {
+	position:absolute;
+	left:854px;
+	top:569px;
+	width:110px;
+	height:155px;
+}
+
+#Slice-19 {
+	position:absolute;
+	left:964px;
+	top:569px;
+	width:1px;
+	height:1px;
+}
+
+#Slice-20 {
+	position:absolute;
+	left:853px;
+	top:570px;
+	width:1px;
+	height:154px;
+}
+
+#Slice-21 {
+	position:absolute;
+	left:964px;
+	top:570px;
+	width:1px;
+	height:154px;
+}
